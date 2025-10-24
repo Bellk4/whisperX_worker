@@ -137,7 +137,7 @@ dmypy.json
 .vscode/
 
 # Audio files (for WhisperX project)
-# *.wav
+*.wav
 *.mp3
 *.m4a
 *.flac
